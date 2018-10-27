@@ -6,9 +6,14 @@
 Welcome to lifeLongLearning's documentation!
 ============================================
 
+Contents:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   sphinx_and_rst.rst
+   cadLearning.rst
+
 
 
 

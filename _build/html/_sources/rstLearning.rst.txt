@@ -1,0 +1,10 @@
+rstLearning
+============
+
+todo:
+  1. toc 侧边目录
+  2. directives
+
+- Content
+- `quick ref <http://docutils.sourceforge.net/docs/user/rst/quickref.html#definition-lists>`_
+- `reStructuredText Markup Specification <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_
