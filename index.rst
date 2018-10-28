@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   python.rst
    sphinx_and_rst.rst
    cadLearning.rst
 
