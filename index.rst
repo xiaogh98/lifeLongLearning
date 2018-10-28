@@ -9,11 +9,14 @@ Welcome to lifeLongLearning's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   python.rst
+   todo.rst
+   FEMLearning/index.rst
+   pythonLearning/index.rst
+   cadLearning/index.rst
+   geotechnicalLearning/index.rst
    sphinx_and_rst.rst
-   cadLearning.rst
 
 
 
